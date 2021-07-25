@@ -1,0 +1,16 @@
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.csproj.AssemblyReference.cache
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.AssemblyInfoInputs.cache
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.AssemblyInfo.cs
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.csproj.CoreCompileInputs.cache
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.exe
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.deps.json
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.runtimeconfig.json
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.runtimeconfig.dev.json
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.dll
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\ref\rpg-csharp.dll
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\bin\Debug\net5.0\rpg-csharp.pdb
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.dll
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\ref\rpg-csharp.dll
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.pdb
+C:\Users\imnot\RiderProjects\rpg-csharp\rpg-csharp\obj\Debug\net5.0\rpg-csharp.genruntimeconfig.cache
